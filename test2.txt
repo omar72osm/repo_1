@@ -3,3 +3,4 @@ test_2 file
 welcome omar in Git tutorial
 
 6224ea88a463334f58101b24483c7eca721f9576
+line 6 added
