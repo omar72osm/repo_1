@@ -1,8 +1,5 @@
-test_1 file
+test_1 file in new-branch
 ----------------------------------
 welcome omar
 it's time to insert data
 have a nice day
-----------------------------------
-----------------------------------
-line 8 added
